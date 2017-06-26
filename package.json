@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "A wrapper around mongo export command. Returns file path.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "repository": "UttamAaseri/mongoexport-wrapper",
   "author": {
     "name": "Uttam Aaseri",
     "email": "aaseri.uttam@gmail.com"
